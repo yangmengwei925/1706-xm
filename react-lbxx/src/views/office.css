@@ -1,0 +1,40 @@
+.my_table_once td{
+        width: 200px;
+        height: 30px;
+        line-height: 30px;
+
+}
+
+.my_table_once .btn{
+    display:inline-block;
+    min-width:40px;
+    padding: 0 10px;
+    height:20px;
+    text-align: center;
+    line-height: 20px;
+    color: #fff;
+    margin-right: 10px;
+}
+
+.my_table_once .btn_orange{
+    background:orange;
+}
+.my_table_once .btn_yellowgreen{
+    background:yellowgreen;
+}
+
+.my_table_once .p_b{
+    padding-bottom: 15px;
+}
+
+.my_table_once .tc{
+    width: 400px;
+    height: 300px;
+    background: darkgoldenrod;
+    position: fixed;
+    top:0;
+    bottom:0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}

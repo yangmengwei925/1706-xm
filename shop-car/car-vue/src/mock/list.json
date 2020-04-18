@@ -1,0 +1,54 @@
+[
+    {
+        "title":" 为您推荐",
+        "sub":[
+            {
+                "name":"纸巾",
+                "price":5,
+                "count":0,
+                "pic":"1.jpg",
+                "check":false
+            },
+            {
+                "name":"面包",
+                "price":10,
+                "count":0,
+                "pic":"1.jpg",
+                "check":false
+            },
+            {
+                "name":"啤酒",
+                "price":2,
+                "count":0,
+                "pic":"1.jpg",
+                "check":false
+            },
+            {
+                "name":"炸鸡",
+                "price":8,
+                "count":0,
+                "pic":"1.jpg",
+                "check":false
+            }
+        ]
+    },
+    {
+        "title":" 薅羊毛",
+        "sub":[
+            {
+                "name":"冰糖葫芦",
+                "price":2,
+                "count":0,
+                "pic":"1.jpg",
+                "check":false
+            },
+            {
+                "name":"香蕉",
+                "price":10,
+                "count":0,
+                "pic":"1.jpg",
+                "check":false
+            }
+        ]
+    }
+]

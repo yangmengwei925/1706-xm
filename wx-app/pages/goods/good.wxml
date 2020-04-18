@@ -1,0 +1,8 @@
+<!--pages/goods/good.wxml-->
+<view>
+  <view wx:for="{{list}}">
+    <text>{{item.name}}</text>
+     <text>{{item.price}}</text>
+      <text>{{item.time}}</text>
+  </view>
+</view>

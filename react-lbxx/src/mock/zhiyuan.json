@@ -1,0 +1,17 @@
+[
+    {
+        "username":"zhong",
+        "password":"111",
+        "rolename":"超级管理员"
+    },
+    {
+        "username":"guo",
+        "password":"111",
+        "rolename":"一级管理员"
+    },
+    {
+        "username":"zhang",
+        "password":"111",
+        "rolename":"二级管理员"
+    }
+]

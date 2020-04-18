@@ -1,0 +1,53 @@
+/* home */
+html,body,div{
+    margin: 0;
+    padding: 0;
+}
+
+.home_bottom{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    color: #fff;
+    background: cornflowerblue;
+}
+
+.home_bottom span{
+    width: 20%;
+    float: left;
+}
+
+/* main */
+.main_click_btn{
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    background: honeydew;
+    text-align: center;
+}
+
+/* more */
+.more_title{
+    margin: 0 2%;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-bottom: 1px solid cornflowerblue;
+}
+.more_title span{
+    float:left;
+}
+
+.more_my_app{
+    height: 200px;
+    background: wheat;
+}
+.more_my_app div{
+    display: inline-block;
+    width: 100px;
+    height: 100px;  
+}
+

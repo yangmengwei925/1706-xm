@@ -1,0 +1,14 @@
+<!--page/index/index.wxml-->
+<view>
+<!-- 高亮的实现 -->
+<view class="span_out">
+  <span wx:for="{{titleBar}}" 
+        class="defaultspan {{defaultIndex===index?'active':''}}" 
+        data-ind="{{index}}" 
+        bindtap="changedeIndex">
+    {{item}}
+  </span>
+  
+</view>
+
+</view>

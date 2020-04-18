@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/goods/good",
+    "pages/free/free"
+  ],
+  "tabBar": {
+    "position":"top",
+    "color":"#000000",
+    "selectedColor":"#FF0000",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "卖二手"
+      },
+      {
+        "pagePath": "pages/goods/good",
+        "text": "淘好货"
+      },
+      {
+        "pagePath": "pages/free/free",
+        "text": "免费领"
+      }
+    ]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

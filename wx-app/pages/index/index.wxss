@@ -1,0 +1,9 @@
+/* page/index/index.wxss */
+
+.defaultspan{
+  margin-right: 10rpx;
+  color: #ddd;
+}
+.active{
+  color: green 
+}

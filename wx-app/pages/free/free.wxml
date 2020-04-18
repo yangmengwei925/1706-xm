@@ -1,0 +1,17 @@
+<!--pages/free/free.wxml-->
+<view>
+
+  <!-- 相册展示 -->
+  <button bindtap="openPhoto">打开相册选择图片</button>
+  <image wx:for="{{pic}}" src="{{item}}"></image>
+  
+  <!-- 地图展示 -->
+  <map id="myMap" show-location />
+  <button bindtap="abc">点击获取当前地图的经纬度</button>
+
+  <!-- 获取当前手机电量 -->
+  <view>
+  {{level}}{{isCharging?'正在充电':'没充电'}}
+  </view>
+  <button bindtap="getRe">点击获取手机电量</button>
+</view>
